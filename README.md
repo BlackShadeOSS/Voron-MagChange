@@ -2,6 +2,9 @@
 
 Electomagnetic Voron ToolChanger System
 
+# Support Me
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F2F2OWYHP)
+
 ## BOM
 
 -   One Electomaget 24v 25mmx11mm with M4 thread (https://www.amazon.de/-/en/Suction-Electric-Cylinder-Electromagnet-25x11mm/dp/B07HP7GW2F)
