@@ -12,6 +12,9 @@ BTW My prints are warped :(
 
 https://github.com/BlackShadeOSS/Voron-MagChange/assets/68154631/34c3ca15-a4af-4b16-9057-bc5ccec23ba5
 
+## Assembly Instruction
+
+Soon
 
 ## BOM
 
