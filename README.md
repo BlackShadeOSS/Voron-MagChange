@@ -24,3 +24,4 @@ Soon
 -   4 Heatset insets (M3x5x4)
 -   3 Ø6x3mm Neodimium Magnet for klicky probe
 -   1 D2F-F MicroSwitch Per tool
+-   1 DIN 9021 8 x 24 mm Pad Per tool
